@@ -1,0 +1,9 @@
+C:\Users\The Tribal Chief\Downloads\C#\Clases\Clases\bin\Debug\Clases.exe.config
+C:\Users\The Tribal Chief\Downloads\C#\Clases\Clases\bin\Debug\Clases.exe
+C:\Users\The Tribal Chief\Downloads\C#\Clases\Clases\bin\Debug\Clases.pdb
+C:\Users\The Tribal Chief\Downloads\C#\Clases\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+C:\Users\The Tribal Chief\Downloads\C#\Clases\Clases\obj\Debug\Clases.Properties.Resources.resources
+C:\Users\The Tribal Chief\Downloads\C#\Clases\Clases\obj\Debug\Clases.csproj.GenerateResource.cache
+C:\Users\The Tribal Chief\Downloads\C#\Clases\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\The Tribal Chief\Downloads\C#\Clases\Clases\obj\Debug\Clases.exe
+C:\Users\The Tribal Chief\Downloads\C#\Clases\Clases\obj\Debug\Clases.pdb

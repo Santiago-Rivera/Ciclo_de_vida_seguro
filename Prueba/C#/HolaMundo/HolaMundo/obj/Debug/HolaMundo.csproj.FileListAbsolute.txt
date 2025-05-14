@@ -1,0 +1,9 @@
+C:\Users\The Tribal Chief\Downloads\C#\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\The Tribal Chief\Downloads\C#\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\The Tribal Chief\Downloads\C#\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\The Tribal Chief\Downloads\C#\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.AssemblyReference.cache
+C:\Users\The Tribal Chief\Downloads\C#\HolaMundo\HolaMundo\obj\Debug\HolaMundo.Properties.Resources.resources
+C:\Users\The Tribal Chief\Downloads\C#\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.GenerateResource.cache
+C:\Users\The Tribal Chief\Downloads\C#\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\The Tribal Chief\Downloads\C#\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\The Tribal Chief\Downloads\C#\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb

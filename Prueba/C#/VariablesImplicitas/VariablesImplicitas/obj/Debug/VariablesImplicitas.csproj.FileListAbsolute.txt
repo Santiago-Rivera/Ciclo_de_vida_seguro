@@ -1,0 +1,9 @@
+C:\Users\The Tribal Chief\Downloads\C#\VariablesImplicitas\VariablesImplicitas\bin\Debug\VariablesImplicitas.exe.config
+C:\Users\The Tribal Chief\Downloads\C#\VariablesImplicitas\VariablesImplicitas\bin\Debug\VariablesImplicitas.exe
+C:\Users\The Tribal Chief\Downloads\C#\VariablesImplicitas\VariablesImplicitas\bin\Debug\VariablesImplicitas.pdb
+C:\Users\The Tribal Chief\Downloads\C#\VariablesImplicitas\VariablesImplicitas\obj\Debug\VariablesImplicitas.csproj.AssemblyReference.cache
+C:\Users\The Tribal Chief\Downloads\C#\VariablesImplicitas\VariablesImplicitas\obj\Debug\VariablesImplicitas.Properties.Resources.resources
+C:\Users\The Tribal Chief\Downloads\C#\VariablesImplicitas\VariablesImplicitas\obj\Debug\VariablesImplicitas.csproj.GenerateResource.cache
+C:\Users\The Tribal Chief\Downloads\C#\VariablesImplicitas\VariablesImplicitas\obj\Debug\VariablesImplicitas.csproj.CoreCompileInputs.cache
+C:\Users\The Tribal Chief\Downloads\C#\VariablesImplicitas\VariablesImplicitas\obj\Debug\VariablesImplicitas.exe
+C:\Users\The Tribal Chief\Downloads\C#\VariablesImplicitas\VariablesImplicitas\obj\Debug\VariablesImplicitas.pdb

@@ -1,0 +1,9 @@
+C:\Users\The Tribal Chief\Downloads\C#\Funciones\Funciones\obj\Debug\Funciones.csproj.AssemblyReference.cache
+C:\Users\The Tribal Chief\Downloads\C#\Funciones\Funciones\obj\Debug\Funciones.Properties.Resources.resources
+C:\Users\The Tribal Chief\Downloads\C#\Funciones\Funciones\obj\Debug\Funciones.csproj.GenerateResource.cache
+C:\Users\The Tribal Chief\Downloads\C#\Funciones\Funciones\obj\Debug\Funciones.csproj.CoreCompileInputs.cache
+C:\Users\The Tribal Chief\Downloads\C#\Funciones\Funciones\bin\Debug\Funciones.exe.config
+C:\Users\The Tribal Chief\Downloads\C#\Funciones\Funciones\bin\Debug\Funciones.exe
+C:\Users\The Tribal Chief\Downloads\C#\Funciones\Funciones\bin\Debug\Funciones.pdb
+C:\Users\The Tribal Chief\Downloads\C#\Funciones\Funciones\obj\Debug\Funciones.exe
+C:\Users\The Tribal Chief\Downloads\C#\Funciones\Funciones\obj\Debug\Funciones.pdb

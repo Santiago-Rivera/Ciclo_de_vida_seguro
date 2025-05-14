@@ -1,0 +1,9 @@
+C:\Users\The Tribal Chief\Downloads\C#\Metodos\Metodos\bin\Debug\Metodos.exe.config
+C:\Users\The Tribal Chief\Downloads\C#\Metodos\Metodos\bin\Debug\Metodos.exe
+C:\Users\The Tribal Chief\Downloads\C#\Metodos\Metodos\bin\Debug\Metodos.pdb
+C:\Users\The Tribal Chief\Downloads\C#\Metodos\Metodos\obj\Debug\Metodos.csproj.AssemblyReference.cache
+C:\Users\The Tribal Chief\Downloads\C#\Metodos\Metodos\obj\Debug\Metodos.Properties.Resources.resources
+C:\Users\The Tribal Chief\Downloads\C#\Metodos\Metodos\obj\Debug\Metodos.csproj.GenerateResource.cache
+C:\Users\The Tribal Chief\Downloads\C#\Metodos\Metodos\obj\Debug\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\The Tribal Chief\Downloads\C#\Metodos\Metodos\obj\Debug\Metodos.exe
+C:\Users\The Tribal Chief\Downloads\C#\Metodos\Metodos\obj\Debug\Metodos.pdb

@@ -1,0 +1,9 @@
+C:\Users\The Tribal Chief\Downloads\C#\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\The Tribal Chief\Downloads\C#\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\The Tribal Chief\Downloads\C#\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\The Tribal Chief\Downloads\C#\Variables\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+C:\Users\The Tribal Chief\Downloads\C#\Variables\Variables\obj\Debug\Variables.Properties.Resources.resources
+C:\Users\The Tribal Chief\Downloads\C#\Variables\Variables\obj\Debug\Variables.csproj.GenerateResource.cache
+C:\Users\The Tribal Chief\Downloads\C#\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\The Tribal Chief\Downloads\C#\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\The Tribal Chief\Downloads\C#\Variables\Variables\obj\Debug\Variables.pdb

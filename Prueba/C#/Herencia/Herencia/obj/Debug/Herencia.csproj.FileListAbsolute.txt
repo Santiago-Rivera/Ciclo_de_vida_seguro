@@ -1,0 +1,9 @@
+C:\Users\The Tribal Chief\Downloads\C#\Herencia\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\The Tribal Chief\Downloads\C#\Herencia\Herencia\bin\Debug\Herencia.exe
+C:\Users\The Tribal Chief\Downloads\C#\Herencia\Herencia\bin\Debug\Herencia.pdb
+C:\Users\The Tribal Chief\Downloads\C#\Herencia\Herencia\obj\Debug\Herencia.csproj.AssemblyReference.cache
+C:\Users\The Tribal Chief\Downloads\C#\Herencia\Herencia\obj\Debug\Herencia.Properties.Resources.resources
+C:\Users\The Tribal Chief\Downloads\C#\Herencia\Herencia\obj\Debug\Herencia.csproj.GenerateResource.cache
+C:\Users\The Tribal Chief\Downloads\C#\Herencia\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\The Tribal Chief\Downloads\C#\Herencia\Herencia\obj\Debug\Herencia.exe
+C:\Users\The Tribal Chief\Downloads\C#\Herencia\Herencia\obj\Debug\Herencia.pdb
